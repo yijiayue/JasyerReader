@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2CF387581BA7F70D003FF571"
+               BlueprintIdentifier = "2C592C891BA7FCC100F982F0"
                BuildableName = "JasyerReader.app"
                BlueprintName = "JasyerReader"
                ReferencedContainer = "container:JasyerReader.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2CF387711BA7F70D003FF571"
+               BlueprintIdentifier = "2C592CA21BA7FCC100F982F0"
                BuildableName = "JasyerReaderTests.xctest"
                BlueprintName = "JasyerReaderTests"
                ReferencedContainer = "container:JasyerReader.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2CF3877C1BA7F70D003FF571"
+               BlueprintIdentifier = "2C592CAD1BA7FCC200F982F0"
                BuildableName = "JasyerReaderUITests.xctest"
                BlueprintName = "JasyerReaderUITests"
                ReferencedContainer = "container:JasyerReader.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2CF387581BA7F70D003FF571"
+            BlueprintIdentifier = "2C592C891BA7FCC100F982F0"
             BuildableName = "JasyerReader.app"
             BlueprintName = "JasyerReader"
             ReferencedContainer = "container:JasyerReader.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2CF387581BA7F70D003FF571"
+            BlueprintIdentifier = "2C592C891BA7FCC100F982F0"
             BuildableName = "JasyerReader.app"
             BlueprintName = "JasyerReader"
             ReferencedContainer = "container:JasyerReader.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2CF387581BA7F70D003FF571"
+            BlueprintIdentifier = "2C592C891BA7FCC100F982F0"
             BuildableName = "JasyerReader.app"
             BlueprintName = "JasyerReader"
             ReferencedContainer = "container:JasyerReader.xcodeproj">

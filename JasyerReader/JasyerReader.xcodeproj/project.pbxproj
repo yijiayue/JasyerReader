@@ -7,68 +7,68 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2CF3875E1BA7F70D003FF571 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CF3875D1BA7F70D003FF571 /* main.m */; };
-		2CF387611BA7F70D003FF571 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CF387601BA7F70D003FF571 /* AppDelegate.m */; };
-		2CF387641BA7F70D003FF571 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CF387631BA7F70D003FF571 /* ViewController.m */; };
-		2CF387671BA7F70D003FF571 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CF387651BA7F70D003FF571 /* Main.storyboard */; };
-		2CF387691BA7F70D003FF571 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CF387681BA7F70D003FF571 /* Assets.xcassets */; };
-		2CF3876C1BA7F70D003FF571 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CF3876A1BA7F70D003FF571 /* LaunchScreen.storyboard */; };
-		2CF387771BA7F70D003FF571 /* JasyerReaderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CF387761BA7F70D003FF571 /* JasyerReaderTests.m */; };
-		2CF387821BA7F70D003FF571 /* JasyerReaderUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CF387811BA7F70D003FF571 /* JasyerReaderUITests.m */; };
+		2C592C8F1BA7FCC100F982F0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C592C8E1BA7FCC100F982F0 /* main.m */; };
+		2C592C921BA7FCC100F982F0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C592C911BA7FCC100F982F0 /* AppDelegate.m */; };
+		2C592C951BA7FCC100F982F0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C592C941BA7FCC100F982F0 /* ViewController.m */; };
+		2C592C981BA7FCC100F982F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C592C961BA7FCC100F982F0 /* Main.storyboard */; };
+		2C592C9A1BA7FCC100F982F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C592C991BA7FCC100F982F0 /* Assets.xcassets */; };
+		2C592C9D1BA7FCC100F982F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C592C9B1BA7FCC100F982F0 /* LaunchScreen.storyboard */; };
+		2C592CA81BA7FCC200F982F0 /* JasyerReaderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C592CA71BA7FCC200F982F0 /* JasyerReaderTests.m */; };
+		2C592CB31BA7FCC200F982F0 /* JasyerReaderUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C592CB21BA7FCC200F982F0 /* JasyerReaderUITests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2CF387731BA7F70D003FF571 /* PBXContainerItemProxy */ = {
+		2C592CA41BA7FCC100F982F0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2CF387511BA7F70D003FF571 /* Project object */;
+			containerPortal = 2C592C821BA7FCC100F982F0 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2CF387581BA7F70D003FF571;
+			remoteGlobalIDString = 2C592C891BA7FCC100F982F0;
 			remoteInfo = JasyerReader;
 		};
-		2CF3877E1BA7F70D003FF571 /* PBXContainerItemProxy */ = {
+		2C592CAF1BA7FCC200F982F0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2CF387511BA7F70D003FF571 /* Project object */;
+			containerPortal = 2C592C821BA7FCC100F982F0 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2CF387581BA7F70D003FF571;
+			remoteGlobalIDString = 2C592C891BA7FCC100F982F0;
 			remoteInfo = JasyerReader;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2CF387591BA7F70D003FF571 /* JasyerReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JasyerReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CF3875D1BA7F70D003FF571 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2CF3875F1BA7F70D003FF571 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		2CF387601BA7F70D003FF571 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		2CF387621BA7F70D003FF571 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		2CF387631BA7F70D003FF571 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		2CF387661BA7F70D003FF571 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		2CF387681BA7F70D003FF571 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		2CF3876B1BA7F70D003FF571 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		2CF3876D1BA7F70D003FF571 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2CF387721BA7F70D003FF571 /* JasyerReaderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JasyerReaderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CF387761BA7F70D003FF571 /* JasyerReaderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JasyerReaderTests.m; sourceTree = "<group>"; };
-		2CF387781BA7F70D003FF571 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2CF3877D1BA7F70D003FF571 /* JasyerReaderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JasyerReaderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CF387811BA7F70D003FF571 /* JasyerReaderUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JasyerReaderUITests.m; sourceTree = "<group>"; };
-		2CF387831BA7F70D003FF571 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C592C8A1BA7FCC100F982F0 /* JasyerReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JasyerReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C592C8E1BA7FCC100F982F0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2C592C901BA7FCC100F982F0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		2C592C911BA7FCC100F982F0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		2C592C931BA7FCC100F982F0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		2C592C941BA7FCC100F982F0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		2C592C971BA7FCC100F982F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2C592C991BA7FCC100F982F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2C592C9C1BA7FCC100F982F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2C592C9E1BA7FCC100F982F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C592CA31BA7FCC100F982F0 /* JasyerReaderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JasyerReaderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C592CA71BA7FCC200F982F0 /* JasyerReaderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JasyerReaderTests.m; sourceTree = "<group>"; };
+		2C592CA91BA7FCC200F982F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C592CAE1BA7FCC200F982F0 /* JasyerReaderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JasyerReaderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C592CB21BA7FCC200F982F0 /* JasyerReaderUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JasyerReaderUITests.m; sourceTree = "<group>"; };
+		2C592CB41BA7FCC200F982F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2CF387561BA7F70D003FF571 /* Frameworks */ = {
+		2C592C871BA7FCC100F982F0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF3876F1BA7F70D003FF571 /* Frameworks */ = {
+		2C592CA01BA7FCC100F982F0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF3877A1BA7F70D003FF571 /* Frameworks */ = {
+		2C592CAB1BA7FCC200F982F0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -78,64 +78,64 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2CF387501BA7F70D003FF571 = {
+		2C592C811BA7FCC100F982F0 = {
 			isa = PBXGroup;
 			children = (
-				2CF3875B1BA7F70D003FF571 /* JasyerReader */,
-				2CF387751BA7F70D003FF571 /* JasyerReaderTests */,
-				2CF387801BA7F70D003FF571 /* JasyerReaderUITests */,
-				2CF3875A1BA7F70D003FF571 /* Products */,
+				2C592C8C1BA7FCC100F982F0 /* JasyerReader */,
+				2C592CA61BA7FCC100F982F0 /* JasyerReaderTests */,
+				2C592CB11BA7FCC200F982F0 /* JasyerReaderUITests */,
+				2C592C8B1BA7FCC100F982F0 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		2CF3875A1BA7F70D003FF571 /* Products */ = {
+		2C592C8B1BA7FCC100F982F0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2CF387591BA7F70D003FF571 /* JasyerReader.app */,
-				2CF387721BA7F70D003FF571 /* JasyerReaderTests.xctest */,
-				2CF3877D1BA7F70D003FF571 /* JasyerReaderUITests.xctest */,
+				2C592C8A1BA7FCC100F982F0 /* JasyerReader.app */,
+				2C592CA31BA7FCC100F982F0 /* JasyerReaderTests.xctest */,
+				2C592CAE1BA7FCC200F982F0 /* JasyerReaderUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2CF3875B1BA7F70D003FF571 /* JasyerReader */ = {
+		2C592C8C1BA7FCC100F982F0 /* JasyerReader */ = {
 			isa = PBXGroup;
 			children = (
-				2CF3875F1BA7F70D003FF571 /* AppDelegate.h */,
-				2CF387601BA7F70D003FF571 /* AppDelegate.m */,
-				2CF387621BA7F70D003FF571 /* ViewController.h */,
-				2CF387631BA7F70D003FF571 /* ViewController.m */,
-				2CF387651BA7F70D003FF571 /* Main.storyboard */,
-				2CF387681BA7F70D003FF571 /* Assets.xcassets */,
-				2CF3876A1BA7F70D003FF571 /* LaunchScreen.storyboard */,
-				2CF3876D1BA7F70D003FF571 /* Info.plist */,
-				2CF3875C1BA7F70D003FF571 /* Supporting Files */,
+				2C592C901BA7FCC100F982F0 /* AppDelegate.h */,
+				2C592C911BA7FCC100F982F0 /* AppDelegate.m */,
+				2C592C931BA7FCC100F982F0 /* ViewController.h */,
+				2C592C941BA7FCC100F982F0 /* ViewController.m */,
+				2C592C961BA7FCC100F982F0 /* Main.storyboard */,
+				2C592C991BA7FCC100F982F0 /* Assets.xcassets */,
+				2C592C9B1BA7FCC100F982F0 /* LaunchScreen.storyboard */,
+				2C592C9E1BA7FCC100F982F0 /* Info.plist */,
+				2C592C8D1BA7FCC100F982F0 /* Supporting Files */,
 			);
 			path = JasyerReader;
 			sourceTree = "<group>";
 		};
-		2CF3875C1BA7F70D003FF571 /* Supporting Files */ = {
+		2C592C8D1BA7FCC100F982F0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				2CF3875D1BA7F70D003FF571 /* main.m */,
+				2C592C8E1BA7FCC100F982F0 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		2CF387751BA7F70D003FF571 /* JasyerReaderTests */ = {
+		2C592CA61BA7FCC100F982F0 /* JasyerReaderTests */ = {
 			isa = PBXGroup;
 			children = (
-				2CF387761BA7F70D003FF571 /* JasyerReaderTests.m */,
-				2CF387781BA7F70D003FF571 /* Info.plist */,
+				2C592CA71BA7FCC200F982F0 /* JasyerReaderTests.m */,
+				2C592CA91BA7FCC200F982F0 /* Info.plist */,
 			);
 			path = JasyerReaderTests;
 			sourceTree = "<group>";
 		};
-		2CF387801BA7F70D003FF571 /* JasyerReaderUITests */ = {
+		2C592CB11BA7FCC200F982F0 /* JasyerReaderUITests */ = {
 			isa = PBXGroup;
 			children = (
-				2CF387811BA7F70D003FF571 /* JasyerReaderUITests.m */,
-				2CF387831BA7F70D003FF571 /* Info.plist */,
+				2C592CB21BA7FCC200F982F0 /* JasyerReaderUITests.m */,
+				2C592CB41BA7FCC200F982F0 /* Info.plist */,
 			);
 			path = JasyerReaderUITests;
 			sourceTree = "<group>";
@@ -143,13 +143,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2CF387581BA7F70D003FF571 /* JasyerReader */ = {
+		2C592C891BA7FCC100F982F0 /* JasyerReader */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2CF387861BA7F70D003FF571 /* Build configuration list for PBXNativeTarget "JasyerReader" */;
+			buildConfigurationList = 2C592CB71BA7FCC200F982F0 /* Build configuration list for PBXNativeTarget "JasyerReader" */;
 			buildPhases = (
-				2CF387551BA7F70D003FF571 /* Sources */,
-				2CF387561BA7F70D003FF571 /* Frameworks */,
-				2CF387571BA7F70D003FF571 /* Resources */,
+				2C592C861BA7FCC100F982F0 /* Sources */,
+				2C592C871BA7FCC100F982F0 /* Frameworks */,
+				2C592C881BA7FCC100F982F0 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -157,68 +157,68 @@
 			);
 			name = JasyerReader;
 			productName = JasyerReader;
-			productReference = 2CF387591BA7F70D003FF571 /* JasyerReader.app */;
+			productReference = 2C592C8A1BA7FCC100F982F0 /* JasyerReader.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2CF387711BA7F70D003FF571 /* JasyerReaderTests */ = {
+		2C592CA21BA7FCC100F982F0 /* JasyerReaderTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2CF387891BA7F70D003FF571 /* Build configuration list for PBXNativeTarget "JasyerReaderTests" */;
+			buildConfigurationList = 2C592CBA1BA7FCC200F982F0 /* Build configuration list for PBXNativeTarget "JasyerReaderTests" */;
 			buildPhases = (
-				2CF3876E1BA7F70D003FF571 /* Sources */,
-				2CF3876F1BA7F70D003FF571 /* Frameworks */,
-				2CF387701BA7F70D003FF571 /* Resources */,
+				2C592C9F1BA7FCC100F982F0 /* Sources */,
+				2C592CA01BA7FCC100F982F0 /* Frameworks */,
+				2C592CA11BA7FCC100F982F0 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				2CF387741BA7F70D003FF571 /* PBXTargetDependency */,
+				2C592CA51BA7FCC100F982F0 /* PBXTargetDependency */,
 			);
 			name = JasyerReaderTests;
 			productName = JasyerReaderTests;
-			productReference = 2CF387721BA7F70D003FF571 /* JasyerReaderTests.xctest */;
+			productReference = 2C592CA31BA7FCC100F982F0 /* JasyerReaderTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		2CF3877C1BA7F70D003FF571 /* JasyerReaderUITests */ = {
+		2C592CAD1BA7FCC200F982F0 /* JasyerReaderUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2CF3878C1BA7F70D003FF571 /* Build configuration list for PBXNativeTarget "JasyerReaderUITests" */;
+			buildConfigurationList = 2C592CBD1BA7FCC200F982F0 /* Build configuration list for PBXNativeTarget "JasyerReaderUITests" */;
 			buildPhases = (
-				2CF387791BA7F70D003FF571 /* Sources */,
-				2CF3877A1BA7F70D003FF571 /* Frameworks */,
-				2CF3877B1BA7F70D003FF571 /* Resources */,
+				2C592CAA1BA7FCC200F982F0 /* Sources */,
+				2C592CAB1BA7FCC200F982F0 /* Frameworks */,
+				2C592CAC1BA7FCC200F982F0 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				2CF3877F1BA7F70D003FF571 /* PBXTargetDependency */,
+				2C592CB01BA7FCC200F982F0 /* PBXTargetDependency */,
 			);
 			name = JasyerReaderUITests;
 			productName = JasyerReaderUITests;
-			productReference = 2CF3877D1BA7F70D003FF571 /* JasyerReaderUITests.xctest */;
+			productReference = 2C592CAE1BA7FCC200F982F0 /* JasyerReaderUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2CF387511BA7F70D003FF571 /* Project object */ = {
+		2C592C821BA7FCC100F982F0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = JiayueYi;
 				TargetAttributes = {
-					2CF387581BA7F70D003FF571 = {
+					2C592C891BA7FCC100F982F0 = {
 						CreatedOnToolsVersion = 7.0;
 					};
-					2CF387711BA7F70D003FF571 = {
+					2C592CA21BA7FCC100F982F0 = {
 						CreatedOnToolsVersion = 7.0;
-						TestTargetID = 2CF387581BA7F70D003FF571;
+						TestTargetID = 2C592C891BA7FCC100F982F0;
 					};
-					2CF3877C1BA7F70D003FF571 = {
+					2C592CAD1BA7FCC200F982F0 = {
 						CreatedOnToolsVersion = 7.0;
-						TestTargetID = 2CF387581BA7F70D003FF571;
+						TestTargetID = 2C592C891BA7FCC100F982F0;
 					};
 				};
 			};
-			buildConfigurationList = 2CF387541BA7F70D003FF571 /* Build configuration list for PBXProject "JasyerReader" */;
+			buildConfigurationList = 2C592C851BA7FCC100F982F0 /* Build configuration list for PBXProject "JasyerReader" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -226,37 +226,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 2CF387501BA7F70D003FF571;
-			productRefGroup = 2CF3875A1BA7F70D003FF571 /* Products */;
+			mainGroup = 2C592C811BA7FCC100F982F0;
+			productRefGroup = 2C592C8B1BA7FCC100F982F0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2CF387581BA7F70D003FF571 /* JasyerReader */,
-				2CF387711BA7F70D003FF571 /* JasyerReaderTests */,
-				2CF3877C1BA7F70D003FF571 /* JasyerReaderUITests */,
+				2C592C891BA7FCC100F982F0 /* JasyerReader */,
+				2C592CA21BA7FCC100F982F0 /* JasyerReaderTests */,
+				2C592CAD1BA7FCC200F982F0 /* JasyerReaderUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2CF387571BA7F70D003FF571 /* Resources */ = {
+		2C592C881BA7FCC100F982F0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2CF3876C1BA7F70D003FF571 /* LaunchScreen.storyboard in Resources */,
-				2CF387691BA7F70D003FF571 /* Assets.xcassets in Resources */,
-				2CF387671BA7F70D003FF571 /* Main.storyboard in Resources */,
+				2C592C9D1BA7FCC100F982F0 /* LaunchScreen.storyboard in Resources */,
+				2C592C9A1BA7FCC100F982F0 /* Assets.xcassets in Resources */,
+				2C592C981BA7FCC100F982F0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF387701BA7F70D003FF571 /* Resources */ = {
+		2C592CA11BA7FCC100F982F0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF3877B1BA7F70D003FF571 /* Resources */ = {
+		2C592CAC1BA7FCC200F982F0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -266,60 +266,60 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2CF387551BA7F70D003FF571 /* Sources */ = {
+		2C592C861BA7FCC100F982F0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2CF387641BA7F70D003FF571 /* ViewController.m in Sources */,
-				2CF387611BA7F70D003FF571 /* AppDelegate.m in Sources */,
-				2CF3875E1BA7F70D003FF571 /* main.m in Sources */,
+				2C592C951BA7FCC100F982F0 /* ViewController.m in Sources */,
+				2C592C921BA7FCC100F982F0 /* AppDelegate.m in Sources */,
+				2C592C8F1BA7FCC100F982F0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF3876E1BA7F70D003FF571 /* Sources */ = {
+		2C592C9F1BA7FCC100F982F0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2CF387771BA7F70D003FF571 /* JasyerReaderTests.m in Sources */,
+				2C592CA81BA7FCC200F982F0 /* JasyerReaderTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CF387791BA7F70D003FF571 /* Sources */ = {
+		2C592CAA1BA7FCC200F982F0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2CF387821BA7F70D003FF571 /* JasyerReaderUITests.m in Sources */,
+				2C592CB31BA7FCC200F982F0 /* JasyerReaderUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		2CF387741BA7F70D003FF571 /* PBXTargetDependency */ = {
+		2C592CA51BA7FCC100F982F0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2CF387581BA7F70D003FF571 /* JasyerReader */;
-			targetProxy = 2CF387731BA7F70D003FF571 /* PBXContainerItemProxy */;
+			target = 2C592C891BA7FCC100F982F0 /* JasyerReader */;
+			targetProxy = 2C592CA41BA7FCC100F982F0 /* PBXContainerItemProxy */;
 		};
-		2CF3877F1BA7F70D003FF571 /* PBXTargetDependency */ = {
+		2C592CB01BA7FCC200F982F0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2CF387581BA7F70D003FF571 /* JasyerReader */;
-			targetProxy = 2CF3877E1BA7F70D003FF571 /* PBXContainerItemProxy */;
+			target = 2C592C891BA7FCC100F982F0 /* JasyerReader */;
+			targetProxy = 2C592CAF1BA7FCC200F982F0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		2CF387651BA7F70D003FF571 /* Main.storyboard */ = {
+		2C592C961BA7FCC100F982F0 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				2CF387661BA7F70D003FF571 /* Base */,
+				2C592C971BA7FCC100F982F0 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		2CF3876A1BA7F70D003FF571 /* LaunchScreen.storyboard */ = {
+		2C592C9B1BA7FCC100F982F0 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				2CF3876B1BA7F70D003FF571 /* Base */,
+				2C592C9C1BA7FCC100F982F0 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -327,7 +327,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		2CF387841BA7F70D003FF571 /* Debug */ = {
+		2C592CB51BA7FCC200F982F0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -371,7 +371,7 @@
 			};
 			name = Debug;
 		};
-		2CF387851BA7F70D003FF571 /* Release */ = {
+		2C592CB61BA7FCC200F982F0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -409,7 +409,7 @@
 			};
 			name = Release;
 		};
-		2CF387871BA7F70D003FF571 /* Debug */ = {
+		2C592CB81BA7FCC200F982F0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -420,7 +420,7 @@
 			};
 			name = Debug;
 		};
-		2CF387881BA7F70D003FF571 /* Release */ = {
+		2C592CB91BA7FCC200F982F0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -431,7 +431,7 @@
 			};
 			name = Release;
 		};
-		2CF3878A1BA7F70D003FF571 /* Debug */ = {
+		2C592CBB1BA7FCC200F982F0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -443,7 +443,7 @@
 			};
 			name = Debug;
 		};
-		2CF3878B1BA7F70D003FF571 /* Release */ = {
+		2C592CBC1BA7FCC200F982F0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -455,7 +455,7 @@
 			};
 			name = Release;
 		};
-		2CF3878D1BA7F70D003FF571 /* Debug */ = {
+		2C592CBE1BA7FCC200F982F0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = JasyerReaderUITests/Info.plist;
@@ -467,7 +467,7 @@
 			};
 			name = Debug;
 		};
-		2CF3878E1BA7F70D003FF571 /* Release */ = {
+		2C592CBF1BA7FCC200F982F0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = JasyerReaderUITests/Info.plist;
@@ -482,40 +482,40 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2CF387541BA7F70D003FF571 /* Build configuration list for PBXProject "JasyerReader" */ = {
+		2C592C851BA7FCC100F982F0 /* Build configuration list for PBXProject "JasyerReader" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CF387841BA7F70D003FF571 /* Debug */,
-				2CF387851BA7F70D003FF571 /* Release */,
+				2C592CB51BA7FCC200F982F0 /* Debug */,
+				2C592CB61BA7FCC200F982F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2CF387861BA7F70D003FF571 /* Build configuration list for PBXNativeTarget "JasyerReader" */ = {
+		2C592CB71BA7FCC200F982F0 /* Build configuration list for PBXNativeTarget "JasyerReader" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CF387871BA7F70D003FF571 /* Debug */,
-				2CF387881BA7F70D003FF571 /* Release */,
+				2C592CB81BA7FCC200F982F0 /* Debug */,
+				2C592CB91BA7FCC200F982F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		2CF387891BA7F70D003FF571 /* Build configuration list for PBXNativeTarget "JasyerReaderTests" */ = {
+		2C592CBA1BA7FCC200F982F0 /* Build configuration list for PBXNativeTarget "JasyerReaderTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CF3878A1BA7F70D003FF571 /* Debug */,
-				2CF3878B1BA7F70D003FF571 /* Release */,
+				2C592CBB1BA7FCC200F982F0 /* Debug */,
+				2C592CBC1BA7FCC200F982F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		2CF3878C1BA7F70D003FF571 /* Build configuration list for PBXNativeTarget "JasyerReaderUITests" */ = {
+		2C592CBD1BA7FCC200F982F0 /* Build configuration list for PBXNativeTarget "JasyerReaderUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CF3878D1BA7F70D003FF571 /* Debug */,
-				2CF3878E1BA7F70D003FF571 /* Release */,
+				2C592CBE1BA7FCC200F982F0 /* Debug */,
+				2C592CBF1BA7FCC200F982F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2CF387511BA7F70D003FF571 /* Project object */;
+	rootObject = 2C592C821BA7FCC100F982F0 /* Project object */;
 }
